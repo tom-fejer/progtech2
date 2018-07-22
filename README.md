@@ -19,7 +19,7 @@ Ha végeztünk a hely(ek) kiválasztásával, a „Book for selected seat(s)” 
 Foglalás véglegesítése/visszavonása
 Ezen a felületen visszavonható (piros „Cancel” gomb) vagy véglegesíthető ( zöld „Finalize” gomb) a foglalás.
 
-## Személyzeti funkciók:
+### Személyzeti funkciók:
 #### Új előadás meghirdetése
 A film listából egy filmet kiválasztva a „Create new show” gombra kattintva érhető el az új előadás meghirdetésére szolgáló felület.
 A kiválasztott filmhez meg kell adni a termet, a dátumot, és az időpontot.
